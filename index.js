@@ -6,3 +6,6 @@ console.log(hellWorldText2);
 
 const hellWorldText3 = "hello strangers";
 console.log(hellWorldText3);
+
+const hellWorldText4 = "hellooo!!";
+console.log(hellWorldText4);
